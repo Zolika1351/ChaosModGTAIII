@@ -1,7 +1,7 @@
 # GTA III ZChaos
 A GTA III chaos mod with Twitch voting support
 
-To download the mod, select the latest release version and follow the instructions.
+To download the mod, select the latest release version to the right and follow the instructions.
 
 # Description
 This mod does random things to your game after a set interval. (30 seconds by default)
