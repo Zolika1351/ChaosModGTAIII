@@ -8,7 +8,7 @@ This mod does random things to your game after a set interval. (30 seconds by de
 
 There are way over 300 different effects that can happen, and the list is only growing with each update! Anything from giving the player health, to teleporting them, changing the physics, removing car wheels, making the whole world spin and much more.
 
-A full documented list of effects is planned, but in the meantime the list for this mod's San Andreas version, which mostly matches up with the GTA III effects, can be found [here](https://zolika1351.pages.dev/chaos/gtasa).
+A full documented list of effects is planned, but in the meantime the list for this mod's San Andreas version, which mostly matches up with the GTA III effects, [can be found here](https://zolika1351.pages.dev/chaos/gtasa).
 
 ![pic](https://user-images.githubusercontent.com/10864159/204119821-30f06894-9182-48f5-a037-467a1899a974.jpg)
 
