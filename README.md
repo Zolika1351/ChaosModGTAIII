@@ -1,2 +1,2 @@
-# ChaosModIII
-GTA III Chaos Mod
+# GTA III ZChaos
+A chaos mod for GTA III
