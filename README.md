@@ -13,7 +13,7 @@ A full documented list of effects is planned, but in the meantime the list for t
 ![pic](https://user-images.githubusercontent.com/10864159/204119821-30f06894-9182-48f5-a037-467a1899a974.jpg)
 
 # Customizability
-The mod is highly tweakable, allowing you to have the exact experience you want.
+The mod is highly tweakable, allowing you to have the exact experience you want. Just press F7 at any time, and with the numpad, you will be able to configure any of these options to your heart's content.
 
 Main Options:
 - Toggle the mod on and off
